@@ -22,14 +22,10 @@ body {
 img {
     padding-top: 30px;
     max-width: 50vw;
+    max-height: 70vh;
     
 }
 
-@media (max-width: 1000px) {
-    img {
-        max-width: 70vw;
-    }
-}
 
 footer {
     font-family: 'Audiowide', cursive;
