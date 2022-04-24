@@ -1,7 +1,5 @@
-//nome = window.prompt('Qual seu nome?')
-//dataNasc = window.prompt('Qual a data do seu nascimento?' , 'DD/MM/AAAA')
-nome = 'Wander de Souza'
-dataNasc = '23/06/1993'
+nome = window.prompt('Qual seu nome?')
+dataNasc = window.prompt('Qual a data do seu nascimento?' , 'DD/MM/AAAA')
 
 var dataAtual = new Date();
 var anoAtual = dataAtual.getFullYear();
